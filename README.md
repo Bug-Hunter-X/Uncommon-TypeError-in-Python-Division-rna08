@@ -1,0 +1,1 @@
+This repository demonstrates a Python function that handles both ZeroDivisionError and TypeError exceptions.  The function `function_with_uncommon_error` aims to gracefully handle division by zero and cases where input types are incompatible with the division operation.  The `bug.py` file contains the buggy code, while `bugSolution.py` illustrates improved error handling.
